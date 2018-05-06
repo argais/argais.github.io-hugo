@@ -1,0 +1,32 @@
+baseURL = "https://www.fernandobattistella.com.br/"
+languageCode = "en-us"
+title = "Fernando Battistella"
+theme = "aerial"
+
+[params]
+  name = "Fernando Battistella"
+  about = "AWS Solutions Architect &nbsp;&bull;&nbsp; Certified Kubernetes Administrator &nbsp;&bull;&nbsp; Guitar Player, Cook, Dog and Cat Owner"
+  copyright = "Fernando Battistella"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = "."
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/Fer_Battistella"
+
+[[params.social]]
+  medium = "LinkedIn"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/battistella/"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/argais"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:fernando@fernandobattistella.com.br"
