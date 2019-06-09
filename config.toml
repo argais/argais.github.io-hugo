@@ -27,11 +27,11 @@ theme = "aerial"
   link = "https://github.com/argais"
 
 [[params.social]]
-  medium = "Cloud Solutions Architect at TriNimbus"
+  medium = "Solutions Architect at TriNimbus"
   icon = "briefcase"
-  link = "https://www.trinimbus.com"
+  link = "https://www.onica.com"
 
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "mailto:fernando@fernandobattistella.com.br"
+  link = "mailto:fernando@bearlabs.ca"
