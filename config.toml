@@ -1,4 +1,4 @@
-baseURL = "https://www.fernandobattistella.com.br/"
+baseURL = "https://www.bearlabs.ca/"
 languageCode = "en-us"
 title = "Fernando Battistella"
 theme = "aerial"
@@ -27,9 +27,9 @@ theme = "aerial"
   link = "https://github.com/argais"
 
 [[params.social]]
-  medium = "Solutions Architect at TriNimbus"
+  medium = "DevOps Engineer at Finch"
   icon = "briefcase"
-  link = "https://www.onica.com"
+  link = "https://www.tryfinch.com"
 
 [[params.social]]
   medium = "Email"
